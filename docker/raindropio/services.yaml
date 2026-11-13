@@ -1,0 +1,5 @@
+- Preview:
+    - Raindrop.io:
+        widget:
+          type: raindropio
+          url: https://api.raindrop.io

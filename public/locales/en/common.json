@@ -1305,5 +1305,11 @@
     },
     "feed": {
         "noItems": "No items"
+    },
+    "raindropio": {
+        "rootCollections": "Groups",
+        "collections": "Collections",
+        "childCollections": "Subcollections",
+        "totalCollections": "Total Collections"
     }
 }

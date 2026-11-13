@@ -9,6 +9,8 @@
     "start": "next start",
     "lint": "eslint .",
     "test": "vitest run",
+    "test:raindropio": "vitest run src/widgets/raindropio/",
+    "docker-raindrop": "docker compose -f docker/raindropio/compose.yaml up --build",
     "test:coverage": "vitest run --coverage",
     "test:watch": "vitest",
     "telemetry": "next telemetry disable"

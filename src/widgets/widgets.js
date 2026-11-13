@@ -117,6 +117,7 @@ import qbittorrent from "./qbittorrent/widget";
 import qnap from "./qnap/widget";
 import qui from "./qui/widget";
 import radarr from "./radarr/widget";
+import raindropio from "./raindropio/widget";
 import readarr from "./readarr/widget";
 import romm from "./romm/widget";
 import rutorrent from "./rutorrent/widget";
@@ -286,6 +287,7 @@ const widgets = {
   qnap,
   qui,
   radarr,
+  raindropio,
   readarr,
   romm,
   rutorrent,

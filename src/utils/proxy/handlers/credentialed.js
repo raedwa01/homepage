@@ -69,6 +69,7 @@ export default async function credentialedProxyHandler(req, res, map) {
           "pterodactyl",
           "vikunja",
           "firefly",
+          "raindropio",
         ].includes(widget.type)
       ) {
         headers.Authorization = `Bearer ${widget.key}`;
